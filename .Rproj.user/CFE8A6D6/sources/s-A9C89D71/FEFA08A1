@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1631150638342.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "FEFA08A1",
+    "lastKnownWriteTime" : 1631150717,
+    "last_content_update" : 1631150717806,
+    "path" : "~/Desktop/jayatis-website/content/post/2020-12-01-r-rmarkdown/index.Rmd",
+    "project_path" : "content/post/2020-12-01-r-rmarkdown/index.Rmd",
+    "properties" : {
+        "cursorPosition" : "16,22",
+        "scrollLine" : "7"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
